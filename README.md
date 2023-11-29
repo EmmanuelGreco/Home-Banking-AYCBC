@@ -1,0 +1,1 @@
+Hice tanto un merge desde gitbash, como un pull request desde github, ya que el ejercicio no especificaba. Por eso veran 2 archivos.
